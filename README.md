@@ -56,6 +56,8 @@ Los siniestros viales son una de las principales causas de muerte violenta en Co
 
 ## ▶️ Instrucciones de uso
 
+## Link de la aplicación
+https://proyecto-accidentalidad-barranquilla-on4hwgfhmf2y4v5jdrv3mn.streamlit.app
 ### Usar la app en línea
 Entrar al link de la app (arriba), elegir una sección en el menú lateral:
 - **Inicio:** descripción del problema y cifras generales.
