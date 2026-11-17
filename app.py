@@ -130,7 +130,7 @@ mejor = tabla["F1"].idxmax()
 st.sidebar.title("🚦 Accidentalidad BAQ")
 pagina = st.sidebar.radio("Ir a:", ["Inicio", "Exploración de datos", "Modelos", "Predicción"])
 st.sidebar.markdown("---")
-st.sidebar.caption("Leidy Marcela Gómez Suárez\n\nFundamentos de Ciencia de Datos\n\nUniversidad de San Buenaventura")
+st.sidebar.caption("Ladimir Rios Doza y Miguel Tunjuelo. \n\nFundamentos de Ciencia de Datos\n\nUniversidad de San Buenaventura")
 
 if pagina == "Inicio":
     st.title("🚦 ¿El accidente deja víctimas?")
